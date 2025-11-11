@@ -1,7 +1,7 @@
 const request = require('supertest');
 const express = require('express');
 
-// New comment to test github workflows
+// const router = require('../../routes/auth.js');
 
 describe('GET /me', () => {
     let app;
