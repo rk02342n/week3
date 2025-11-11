@@ -1,7 +1,0 @@
-on:
-  create
-jobs:
-test:
-  steps:
-      - run:| npm run test
-          
